@@ -1,6 +1,15 @@
 # Tridark-UAV
-A roadmap of Project Tridark. Based of the Flightory Stallion Airframe.
 
-This project intends to integrate technologies being developed and used by drone and aerospace companies in the US to teach and prepare students for careers in this area. My goal is to integrate real time sensor input with modern machine learning to create a "smart" autonomous flight platform that can carry out missions. This project is a combination of aerospace engineering, electrical engineering, and computer science. I intend to learn rapidly and seek others with interest in these areas to build this.
+A smart, easy to maufacture, versatile drone plane. 
 
-Project Budget: $2000.00USD
+Mission: to disprove participating in robotics & aerospace requires a PhD.
+
+### Planned Features:
+**Pixhawk 6X Flight Controller**
+- STM32 Bit Arm Microprocessor 480MHz/2MB flash memory/1MB RAM _(I intend to learn more about STM32 microprocessor programming)._ 
+
+**Modualar and modifiable airframe**
+- Able to 3d print on a small 180×180×180mm printer _(I am printing on a Prusa Mini+)._
+- 
+
+
