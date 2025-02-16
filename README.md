@@ -1,8 +1,8 @@
 # Tridark-UAV
 
-A smart, easy to manufacture, versatile drone plane. 
+A smart and versatile drone plane. 
 
-Mission: to disprove participating in robotics & aerospace requires a PhD.
+Mission: to test and learn about the airframe and electronics in an autonomous drone.
 
 ## Version 1 Goal: 
 **To assemble the Flightory Stallion VTOL airframe and have a stable flight capable airframe by March 28th.**
