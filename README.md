@@ -1,6 +1,6 @@
 # Tridark-UAV
 
-A smart and versatile drone plane. 
+An autonomous and versatile drone plane capable of vertical take off and landing (VTOL). 
 
 Mission: to test and learn about the airframe and electronics in an autonomous drone.
 
