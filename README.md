@@ -12,7 +12,7 @@ Mission: to test and learn about the airframe and electronics in an autonomous d
 - Purchase materials for building the airframe.
 - Purchase electronics needed to make the airframe fly in both VTOL and horizonal flight modes.
 - Airframe assembly. 
-- Installing and configuring electronics.
+- Installing and configuring electronics. *Flight managment unit(FMU), motors, servos, battery, electronic speed controllers(ESC)*
 - Test flights.
 - Tuning VTOL to horizonal flight transition. 
 - Flight practice.
