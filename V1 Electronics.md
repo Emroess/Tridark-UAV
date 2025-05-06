@@ -1,4 +1,4 @@
-## V1 Electronics
+## Electronics and Concepts
 In order to fly Tridark some electrical equipment and undersanding of how they work is necessary:
 
 ## What is Dshot and why am I using it?
