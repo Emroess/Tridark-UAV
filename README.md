@@ -20,7 +20,6 @@ Mission: to test and learn about the airframe and electronics in an autonomous d
 **Constraints:**
 - 3D print volume (I am printing on a Prusa Mini+ which has a print volume of 180×180×180mm).
 - Funding.
-- March 8th test flight (would like to take the plane to a rocketry and plane launch meeting).
 - Component shipping time.
 
 
