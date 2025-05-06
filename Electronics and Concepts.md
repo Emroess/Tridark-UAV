@@ -8,7 +8,7 @@ Dshot is a cooler, faster, and digital younger brother to the traditional analog
 
 ![Image of PWM SIGNAL](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ndA6xHeXSARmSkA4Ehre6wHaEK%26pid%3DApi&f=1&ipt=0b117cb7e7499f6faf677980027a5bc864fd6b8e47c9a8bed53d966e66f95f2e&ipo=images)
 
-When an electronic speed controller(ESC) receives a PWM signal, it measures the pulse widths and then outputs the corresponding programmed motor output. It is a simple and robust system that has been in use since 1849. So if it’s so simple and robust (simplicity is the key in good engineering) why the heck am I not using it?? 
+When an electronic speed controller(ESC) receives a PWM signal, it measures the pulse widths and then outputs the corresponding programmed motor output. It is a simple and robust system that has been in use since 1849. So if it’s so simple and robust *(simplicity is the key in good engineering)* **why the heck am I not using it??** 
 
 
 
